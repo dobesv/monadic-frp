@@ -1,7 +1,5 @@
 Code accompanying the paper "Monadic Functional Reactive Programming" Atze van der Ploeg, Haskell Symposium '13.
-Paper available at http://homepages.cwi.nl/~ploeg/papers/monfrp.pdf
-
-The documentation is at http://homepages.cwi.nl/~ploeg/sfrpdocs/
+Paper available at http://oai.cwi.nl/oai/asset/22007/22007B.pdf
 
 To try out the drawing program do the following:
 
